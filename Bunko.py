@@ -7,7 +7,7 @@ MIN_ROLL = 1
 MAX_ROLL = 6
 MIN_BET = 5
 
-
+""" method to role the dice once"""
 def roll_one_die() -> int:
     """ 
     Simulates the roll of a single dice between MIN_ROLL and MAX_ROLL
